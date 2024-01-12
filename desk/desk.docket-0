@@ -1,0 +1,10 @@
+:~
+  title+'cancel-my-timer'
+  info+'a proof that src.bowl matters when cancelling a behn timer on a wire'
+  color+0xff.ffff
+  version+[0 0 0]
+  website+'https://github.com/brbenji/focus'
+  license+'MIT'
+  image+'https://github.com/brbenji/focus/raw/master/desk/app/webui/assets/web-tile.png'
+  site+/cancelled
+==
